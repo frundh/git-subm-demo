@@ -1,0 +1,3 @@
+[submodule "git-lfs-demo"]
+	path = git-lfs-demo
+	url = https://github.com/frundh/git-lfs-demo
